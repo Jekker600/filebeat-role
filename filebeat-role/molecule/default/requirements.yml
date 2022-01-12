@@ -1,0 +1,13 @@
+---
+  - src: git@github.com:jekker600/elastic-role.git
+    scm: git
+    version: "1.0.2"
+    name: elastic
+  - src: git@github.com:jekker600/kibana-role.git
+    scm: git
+    version: "2.0.0"
+    name: kibana_role
+  - src: git@github.com:jekker600/logstash-role.git
+    scm: git
+    version: "0.2.4"
+    name: logstash_role
